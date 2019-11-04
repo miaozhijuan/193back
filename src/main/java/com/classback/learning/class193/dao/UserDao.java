@@ -1,7 +1,7 @@
-package com.winterchen.dao;
+package com.classback.learning.class193.dao;
 
 
-import com.winterchen.model.UserDomain;
+import com.classback.learning.class193.model.UserDomain;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

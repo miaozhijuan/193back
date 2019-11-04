@@ -1,9 +1,7 @@
-package com.winterchen.service.user;
+package com.classback.learning.class193.user;
 
+import com.classback.learning.class193.model.UserDomain;
 import com.github.pagehelper.PageInfo;
-import com.winterchen.model.UserDomain;
-
-import java.util.List;
 
 /**
  * Created by Administrator on 2018/4/19.

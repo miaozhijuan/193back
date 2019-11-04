@@ -1,10 +1,10 @@
-package com.winterchen.service.user.impl;
+package com.classback.learning.class193.user.impl;
 
+import com.classback.learning.class193.dao.UserDao;
+import com.classback.learning.class193.model.UserDomain;
+import com.classback.learning.class193.user.UserService;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
-import com.winterchen.dao.UserDao;
-import com.winterchen.model.UserDomain;
-import com.winterchen.service.user.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

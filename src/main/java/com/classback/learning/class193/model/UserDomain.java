@@ -1,4 +1,4 @@
-package com.winterchen.model;
+package com.classback.learning.class193.model;
 
 public class UserDomain {
     private Integer userId;
